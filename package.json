@@ -1,6 +1,6 @@
 {
   "name": "global-azure-2021-battleship",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a helper library for the Battleship coding contest at Global Azure Austria 2021",
   "main": "dist/index.js",
   "scripts": {
