@@ -1,0 +1,11 @@
+node_modules/
+node_modules
+node_modules.nosync/
+.editorconfig
+.gitattributes
+.gitignore
+src/
+tsconfig.json
+tsconfig.base.json
+*.map
+examples/
